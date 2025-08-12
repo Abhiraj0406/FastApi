@@ -10,7 +10,7 @@
     i. Uvicorn is an ASGI server required to run FastAPI applications. -> "pip install fastapi uvicorn"
     ii. install all optional dependencies for FastAPI (e.g., for database integration, templating) -> "pip install fastapi[all]  uvicorn"
 
-**Note: if want to see the pakages installed, use cms -> "pip freeze"
+**Note: if want to see the pakages installed, use cms -> "pip freeze".
 
 6. Run the FastAPI Server:
     i. "uvicorn main:app --reload"
